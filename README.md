@@ -4,10 +4,6 @@
 
 A slide puzzle built for [Flutter Challenge](https://flutterhack.devpost.com/).
 
-*Built by [Very Good Ventures][very_good_ventures_link] in partnership with Google.*
-
-*Created using [Very Good CLI][very_good_cli_link].*
-
 ---
 
 ## Getting Started 🚀
